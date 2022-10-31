@@ -1,0 +1,7 @@
+<!DOCTYPE RCC>
+<RCC>
+    <qresource prefix="/img">
+        <file>hashtag.png</file>
+        <file>copuico2.png</file>
+    </qresource>
+</RCC>
