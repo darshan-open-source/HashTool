@@ -4,7 +4,7 @@ HashTool is free and open source tool for getting hash from string and files It 
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/darshan-open-source/HashTool/blob/main/screenshots/screenshot.png)
 
 ## Features
 
